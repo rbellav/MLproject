@@ -8,7 +8,7 @@ The pipeline includes:
 
 - Handling class imbalance using oversampling techniques such as SMOTE.
 
-- Dimensionality reduction with PCA to remove noise and redundancy.
+- Dimensionality reduction to remove noise and redundancy.
 
 - Model selection and evaluation (Logistic Regression as baseline, with hyperparameter tuning via GridSearch/RandomizedSearch).
 
